@@ -1,4 +1,4 @@
-# monolith_event_driven
+# Monolith Event Driven
 
 ### This project is a minimalist Ruby on Rails application designed to explore event-driven architecture within a monolithic framework using PostgreSQL. It includes basic models to represent various domains and simulates event processing
 
